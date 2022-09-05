@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YuHsuan-Lu
 - 👀 Check out my latest application !
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- https://github.com/YuHsuan-Lu/Tenzie-MERN
+
+- 📫 How to reach me ...https://www.linkedin.com/feed/
 
 <!---
 YuHsuan-Lu/YuHsuan-Lu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
